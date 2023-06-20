@@ -293,7 +293,7 @@ https://thirdweb.com/astar/0xa92d7e8eC2152B951F19746c4EcaC2768B7827Be
 
 ![](images/20.png)
 
-# 5 技術スタック
+# 5 技術スタック 
 
 ## フロントエンド等
 - next.js
